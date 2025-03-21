@@ -14,7 +14,7 @@
 // @updateURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
 // @downloadURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
 
-// @homepageURL	https://greasyfork.org
+// @homepageURL	https://greasyfork.org/da/users/1448667
 // @downloadURL	https://update.greasyfork.org/scripts/00000/Temu_Link_Cleaner.user.js
 // @updateURL	https://update.greasyfork.org/scripts/00000/Temu_Link_Cleaner.meta.js
 
