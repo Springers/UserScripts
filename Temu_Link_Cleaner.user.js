@@ -5,15 +5,23 @@
 // @author	Springer
 // @homepageURL	https://github.com/Springers
 // @homepageURL	https://gist.github.com/Springers
+
 // @downloadURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d
 // @updateURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
+
+// @downloadURL	https://github.com/Springers/USerScripts/blob/main/Temu_Link_Cleaner.user.js
+// @updateURL	https://raw.githubusercontent.com/Springers/USerScripts/blob/main/Temu_Link_Cleaner.user.js
+
+// @homepageURL	https://greasyfork.org
+// @downloadURL	https://update.greasyfork.org/scripts/00000/Temu_Link_Cleaner.user.js
+// @updateURL	https://update.greasyfork.org/scripts/00000/Temu_Link_Cleaner.meta.js
 
 // @icon	https://www.google.com/s2/favicons?sz=64&domain=temu.com
 // @icon	https://aimg.kwcdn.com/upload_aimg/web/c9653751-0a91-46f1-806a-b639dd32931b.png
 // @icon	https://aimg.kwcdn.com/upload_aimg/web/c9653751-0a91-46f1-806a-b639dd32931b.png.slim.png
 // @match	*://*.temu.com/*
 // @grant	none
-// @run-at
+// @run-at	
 // @license	Non-Commercial Use Only
 // ==/UserScript==
 
