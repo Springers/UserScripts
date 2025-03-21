@@ -5,8 +5,8 @@
 // @author	Springer
 // @homepageURL	https://github.com/Springers/USerScripts/blob/main/Temu_Link_Cleaner.user.js
 // @homepageURL	https://github.com/Springers
-// @homepageURL	https://gist.github.com/Springers
 // @homepageURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
+// @homepageURL	https://gist.github.com/Springers
 
 // @downloadURL	https://raw.githubusercontent.com/Springers/USerScripts/refs/heads/main/Temu_Link_Cleaner.user.js
 // @updateURL	https://raw.githubusercontent.com/Springers/USerScripts/refs/heads/main/Temu_Link_Cleaner.user.js
