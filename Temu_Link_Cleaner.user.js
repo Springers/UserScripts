@@ -7,6 +7,7 @@
 // @homepageURL	https://github.com/Springers
 // @homepageURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
 // @homepageURL	https://gist.github.com/Springers
+// @homepageURL	https://greasyfork.org/da/users/1448667
 
 // @downloadURL	https://raw.githubusercontent.com/Springers/USerScripts/refs/heads/main/Temu_Link_Cleaner.user.js
 // @updateURL	https://raw.githubusercontent.com/Springers/USerScripts/refs/heads/main/Temu_Link_Cleaner.user.js
@@ -14,7 +15,6 @@
 // @updateURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
 // @downloadURL	https://gist.github.com/Springers/47f00ad974e2fc68cbece012670c101d/raw/Temu_Link_Cleaner.user.js
 
-// @homepageURL	https://greasyfork.org/da/users/1448667
 // @downloadURL	https://update.greasyfork.org/scripts/530500/Temu%20Link%20Cleaner.user.js
 // @updateURL	https://update.greasyfork.org/scripts/530500/Temu%20Link%20Cleaner.meta.js
 
