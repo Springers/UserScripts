@@ -2,12 +2,10 @@
 // @name	Temu Link Cleaner
 // @namespace	https://github.com/Springers
 // @description	Simplify Temu links. Cleans up temu.com links into temu.com/g-[PRODUCTID].html format and updates the address bar.
-// @version	1.02
+// @version	1.021
 // @author	Springer
 // @homepageURL	https://github.com/Springers/UserScripts/blob/main/Temu_Link_Cleaner.user.js
 // @homepageURL	https://github.com/Springers
-// @homepageURL	https://gist.github.com/Springers/9f884944421644c4ba66a8abefaa16a6/raw/Temu_Link_Cleaner.user.js
-// @homepageURL	https://gist.github.com/Springers
 // @homepageURL	https://greasyfork.org/en/scripts/539519-temu-link-cleaner
 // @homepageURL	https://greasyfork.org/en/users/1448667
 // @icon	https://www.google.com/s2/favicons?sz=64&domain=temu.com
@@ -19,8 +17,6 @@
 // @license	Non-Commercial Use Only
 // @downloadURL	https://github.com/Springers/UserScripts/raw/refs/heads/main/Temu_Link_Cleaner.user.js
 // @updateURL	https://github.com/Springers/UserScripts/blob/main/Temu_Link_Cleaner.user.js
-// @downloadURL	https://gist.github.com/Springers/9f884944421644c4ba66a8abefaa16a6/raw/Temu_Link_Cleaner.user.js
-// @updateURL	https://gist.github.com/Springers/9f884944421644c4ba66a8abefaa16a6
 // @downloadURL	https://update.greasyfork.org/scripts/539519/Temu%20Link%20Cleaner.user.js
 // @updateURL	https://update.greasyfork.org/scripts/539519/Temu%20Link%20Cleaner.meta.js
 // ==/UserScript==
