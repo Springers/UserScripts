@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AliExpress Bulk Delete All Messages (Auto-Confirm)
 // @namespace	   https://github.com/Springers
-// @version      1.0
+// @version      1.001
 // @author	     Springer
 // @description  Delete all Messages in AliExpress.
 // @homepageURL	 https://github.com/Springers/UserScripts/blob/main/AliExpress_Bulk_Delete_All_Messages_(Auto-Confirm).user.js
