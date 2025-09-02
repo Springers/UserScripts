@@ -6,7 +6,7 @@
 // @description  Delete all Messages in AliExpress.
 // @homepageURL	 https://github.com/Springers/UserScripts/blob/main/AliExpress_Bulk_Delete_All_Messages_(Auto-Confirm).user.js
 // @homepageURL	 https://github.com/Springers
-// @homepageURL	 https://greasyfork.org/en/scripts/539519
+// @homepageURL	 https://greasyfork.org/en/scripts/548123
 // @homepageURL	 https://greasyfork.org/en/users/1448667
 // @downloadURL  https://update.greasyfork.org/scripts/548123/AliExpress%20Bulk%20Delete%20All%20Messages%20%28Auto-Confirm%29.user.js
 // @updateURL	   https://update.greasyfork.org/scripts/548123/AliExpress%20Bulk%20Delete%20All%20Messages%20%28Auto-Confirm%29.meta.js
